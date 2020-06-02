@@ -2,7 +2,7 @@
 
 # *OPTIONAL* Comment to reply with
 # Can be either an array:
- requestInfoReplyComment:
+ requestInfoReplyComment: >
   - Ah no! young blade! That was a trifle short!
   - Tell me more !
   - I am sure you can be more effusive
